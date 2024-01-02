@@ -9,7 +9,6 @@ tensorflow-io-gcs-filesystem
 Pillow
 Gunicorn
 numpy
-gevent
 pickle
 torch
 transformers
