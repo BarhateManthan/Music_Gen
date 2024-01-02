@@ -11,3 +11,4 @@ Gunicorn
 numpy
 torch
 transformers
+IPython
